@@ -1,4 +1,4 @@
-package com.swamedia.siswa.entity;
+package com.swamedia.employee.entity;
 
 
 import jakarta.persistence.*;

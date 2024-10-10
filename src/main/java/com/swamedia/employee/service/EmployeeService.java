@@ -1,6 +1,6 @@
-package com.swamedia.siswa.service;
+package com.swamedia.employee.service;
 
-import com.swamedia.siswa.dto.EmployeeDto;
+import com.swamedia.employee.dto.EmployeeDto;
 
 import java.util.List;
 

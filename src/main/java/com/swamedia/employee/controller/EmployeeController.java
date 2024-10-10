@@ -1,10 +1,9 @@
-package com.swamedia.siswa.controller;
+package com.swamedia.employee.controller;
 
-import com.swamedia.siswa.dto.EmployeeDto;
-import com.swamedia.siswa.service.EmployeeService;
+import com.swamedia.employee.dto.EmployeeDto;
+import com.swamedia.employee.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

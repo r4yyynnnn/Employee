@@ -1,11 +1,11 @@
-package com.swamedia.siswa.service.impl;
+package com.swamedia.employee.service.impl;
 
-import com.swamedia.siswa.dto.EmployeeDto;
-import com.swamedia.siswa.entity.Employee;
-import com.swamedia.siswa.exception.ResourceNotFoundException;
-import com.swamedia.siswa.mapper.EmployeeMapper;
-import com.swamedia.siswa.repository.EmployeeRepository;
-import com.swamedia.siswa.service.EmployeeService;
+import com.swamedia.employee.dto.EmployeeDto;
+import com.swamedia.employee.entity.Employee;
+import com.swamedia.employee.exception.ResourceNotFoundException;
+import com.swamedia.employee.mapper.EmployeeMapper;
+import com.swamedia.employee.repository.EmployeeRepository;
+import com.swamedia.employee.service.EmployeeService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

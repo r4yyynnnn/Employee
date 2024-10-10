@@ -1,7 +1,7 @@
-package com.swamedia.siswa.mapper;
+package com.swamedia.employee.mapper;
 
-import com.swamedia.siswa.dto.EmployeeDto;
-import com.swamedia.siswa.entity.Employee;
+import com.swamedia.employee.dto.EmployeeDto;
+import com.swamedia.employee.entity.Employee;
 
 public class EmployeeMapper {
 

@@ -1,4 +1,4 @@
-package com.swamedia.siswa.dto;
+package com.swamedia.employee.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
