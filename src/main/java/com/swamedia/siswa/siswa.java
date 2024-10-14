@@ -1,13 +1,13 @@
-package com.swamedia.employee;
+package com.swamedia.siswa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class employee {
+public class siswa {
 
 	public static void main(String[] args) {
-		SpringApplication.run(employee.class, args);
+		SpringApplication.run(siswa.class, args);
 	}
 
 }

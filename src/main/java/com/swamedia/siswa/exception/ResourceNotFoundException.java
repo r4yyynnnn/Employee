@@ -1,4 +1,4 @@
-package com.swamedia.employee.exception;
+package com.swamedia.siswa.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

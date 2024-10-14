@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.swamedia</groupId>
-	<artifactId>employee</artifactId>
+	<artifactId>siswa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employee</name>
-	<description>Demo Project For SpringBoot Employee Management</description>
+	<name>siswa</name>
+	<description>Testing Project CRUD Data Siswa</description>
 	<url/>
 	<licenses>
 		<license/>

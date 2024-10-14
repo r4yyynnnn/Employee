@@ -1,4 +1,4 @@
-package com.swamedia.employee.dto;
+package com.swamedia.siswa.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -9,9 +9,9 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class EmployeeDto {
+public class SiswaDto {
     private Long id;
-    private String first_Name;
-    private String last_Name;
-    private String email;
+    private String Nama;
+    private String Kelas;
+    private String WaliKelas;
 }
